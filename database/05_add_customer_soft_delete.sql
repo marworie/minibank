@@ -6,4 +6,5 @@ ADD IsActive BIT NOT NULL DEFAULT 1, ClosedAt DATETIME2 NULL ;
 
 
 
+
 SELECT * FROM Customers;
